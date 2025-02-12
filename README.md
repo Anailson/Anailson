@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Java Developer<br>- Software Developer at @Controladoria-Geral do Distrito Federal</p>
+<p align="left">- Java Developer<br></p>
 
 ###
 
