@@ -16,7 +16,6 @@ Atualmente me especializando em Microsserviços e Arquitetura de Software pela A
 
 - ☕ Desenvolvedor Backend Java
 - 💼 4+ anos desenvolvendo sistemas corporativos
-- 🏛️ Atualmente atuando na Controladoria Geral do Distrito Federal
 - 📚 Especialização em Microsserviços e Arquitetura de Software (AlgaWorks)
 - ❤️ Apaixonado por Engenharia de Software
 - 🎯 Objetivo: Tornar-me Software Engineer especialista em Backend Java e Sistemas Distribuídos
